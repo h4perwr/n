@@ -1,0 +1,4 @@
+﻿  test1.cpp
+C:\Users\Segiz\OneDrive\Рабочий стол\test1\test1\test1.cpp(42,14): warning C4244: инициализация: преобразование "time_t" в "int", возможна потеря данных
+C:\Users\Segiz\OneDrive\Рабочий стол\test1\test1\test1.cpp(83,15): warning C4244: аргумент: преобразование "time_t" в "unsigned int", возможна потеря данных
+  test1.vcxproj -> C:\Users\Segiz\OneDrive\Рабочий стол\test1\x64\Debug\test1.exe
